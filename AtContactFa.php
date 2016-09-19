@@ -5,7 +5,7 @@ Plugin Name: AtContactFa
 Description: This plugin allows to display a very simple contact details of your company in your website.
 Version: 1.0.0
 Author: Atiqullah Naemi
-Author URI: http://atiqullahnaemi21.wix.com/atiqullah-naemi
+Author URI: https://au.linkedin.com/in/atiqullah-naemi-2a4b6a99
 License: GPL2
 */
 
